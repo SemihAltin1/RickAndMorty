@@ -63,7 +63,7 @@ The project is organized into the following main directories:
 
 | Character List | Character Detail |
 |----------------|------------------|
-| ![Character List](path_to_list_image) | ![Character Detail](path_to_detail_image) |
+| <img src="https://github.com/SemihAltin1/RickAndMorty/blob/main/images/list.PNG" width="200"> | <img src="https://github.com/SemihAltin1/RickAndMorty/blob/main/images/detail.PNG" width="200"> |
 
 ## Setup Instructions
 
